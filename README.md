@@ -10,5 +10,5 @@
   
   Topology 
   
-  /images/fs_default_config
+   	fs_default_config.jpg
   
