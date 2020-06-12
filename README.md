@@ -5,7 +5,7 @@
   
   OS : Centos 7
   Program : - Freeswitch 1.6
-            - lua Programming
+            - Python Flask Programming
             - BILLING - a2billing/astpp
   
   Topology 
